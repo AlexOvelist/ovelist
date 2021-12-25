@@ -1,0 +1,6 @@
+bat
+cat
+rat
+dune
+mune
+six
