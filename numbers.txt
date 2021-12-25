@@ -6,7 +6,9 @@
 6
 7
 8
+<<<<<<< HEAD
 100
 cat
 dog
 egg
+
